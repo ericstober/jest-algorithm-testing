@@ -85,10 +85,6 @@ Run your tests:
 npm test
 ```
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - [Jest](https://jestjs.io/) for providing a robust testing framework.
